@@ -7,4 +7,5 @@ Foi realizado através das mentorias do programa [Descodificadas](https://descod
 
 ## Demonstração
 Confira o site [aqui](https://mapgomes.github.io/projeto-seletores/).
+
 ![](https://github.com/mapgomes/projeto-seletores/blob/main/site.png)
